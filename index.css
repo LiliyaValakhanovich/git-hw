@@ -1,0 +1,156 @@
+* {
+  padding:0;
+  margin:0;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-weight: 900;
+  text-decoration: underline double 2px;
+  text-align: center;
+}
+
+div.charlotte {
+  width:50vw;
+  height:auto;
+  padding: 40px 40px 20px 40px;
+  margin: 130px auto 130px;
+  background-color: #86d8ee;
+  border-top: 4px solid #5998c9;
+  border-right: 4px solid #5998c9;
+  border-bottom: 4px dashed #5998c9;
+  border-left: 4px dashed #5998c9;
+  position:relative;
+}
+
+.image_charlotte {
+  width: 300px;
+  height: 200px;
+  left:40vw;
+  top:-110px;
+  position:absolute;
+  border: 4px solid #06487a;  
+ }
+
+img {
+  width: 292px;
+  height: 192px;
+}
+
+h2 {
+  margin-bottom: 30px;
+  text-align:left;
+}
+
+h2.charlotte {
+  color: #5998c9;
+  text-decoration: underline #5998c9 solid 2px;
+}
+
+p.charlotte::first-letter {
+  color:#5998c9;
+  font-weight: 900;
+}
+
+h3.charlotte {
+  color:#5998c9;
+  margin: 10px 0 10px;
+}
+
+ul,ol {
+  margin-left: 40px;
+  margin-bottom: 40px;
+}
+
+nav.charlotte li:nth-child(even) {
+  color:#5998c9;
+  text-decoration: underline dashed #5998c9;
+}
+
+p.weshes {
+  text-decoration: overline;
+}
+
+div.tiramisu {
+  width:50vw;
+  height:auto;
+  padding: 40px 40px 20px 40px;
+  margin: 130px auto 130px;
+  background-color: #e7f1f5;
+  border-top: 4px solid #6e6f70;
+  border-right: 4px solid #6e6f70;
+  border-bottom: 4px dashed #6e6f70;
+  border-left: 4px dashed #6e6f70;
+  position:relative; 
+}
+
+h2.tiramisu {
+  color: #6e6f70;
+  text-decoration: underline #6e6f70 solid 2px;
+}
+
+p.tiramisu::first-letter {
+  color:#6e6f70;
+  font-weight: 900;
+}
+
+.image_tiramisu {
+  width: 300px;
+  height: 200px;
+  border: 4px solid #6e6f70;
+  left:40vw;
+  top:-110px;
+  position:absolute;
+}
+
+h3.tiramisu {
+  margin:30px 0 30px;
+  color:#6e6f70;
+}
+
+nav.tiramisu li:nth-child(odd) {
+  color:#6e6f70;
+  text-decoration: underline dashed #6e6f70;
+}
+
+div.cookies {
+  width:50vw;
+  height:auto;
+  padding: 40px 40px 20px 40px;
+  margin: 130px auto 130px;
+  background-color: #76ba9e;
+  border-top: 4px solid #11592f;
+  border-right: 4px solid #11592f;
+  border-bottom: 4px dashed #11592f;
+  border-left: 4px dashed #11592f;
+  position:relative; 
+}
+
+h2.cookies {
+  color: #11592f;
+  text-decoration: underline #11592f solid 2px;
+}
+
+p.cookies::first-letter {
+  color:#11592f;
+  font-weight: 900;
+}
+
+h3.cookies {
+  margin:30px 0 30px;
+  color:#11592f; 
+}
+
+nav.cookies li:nth-child(3n+3) {
+  color:#11592f;
+  text-decoration: underline wavy #11592f;
+}
+
+.image_cookies {
+  width: 300px;
+  height: 200px;
+  border: 4px solid #11592f;
+  left:40vw;
+  top:-110px;
+  position:absolute;
+}
