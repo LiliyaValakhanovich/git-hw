@@ -31,12 +31,6 @@
   text-align: center;
 }
 
-/*.header_conteiner {
-  display: grid;
-  width: 100%;
-  justify-items: center;
-}*/
-
 .header_navigation {
   width:100%;
   display: flex;  
