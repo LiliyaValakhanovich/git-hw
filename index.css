@@ -515,8 +515,8 @@
 .contacts_title_nav {
   font-family: "Roboto";
   font-weight: 700;
-  font-size: 20px;
-  line-height: 22px;
+  font-size: 22px;
+  line-height: 24px;
 }
 
 .contacts_nav_list {
@@ -526,9 +526,9 @@
 .contacts_nav_list_item {
   font-family: "Roboto";
   font-weight: 400;
-  font-size: 18px;
-  line-height: 20px;
-  color: #757575;
+  font-size: 22px;
+  line-height: 24px;
+  color: #504f4f;
 }
 
 .contacts_nav {
